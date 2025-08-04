@@ -20,7 +20,7 @@ them to thank them for their help.
 
 ## Planning Documents
 
-Link to [Planning Document](Replace this text here in the parentheses with the full filename of your planning document, with the extension)
+Link to [Planning Document](Replace this text here in the parentheses with the full filename of your planning document, with the extension).
 
 ## Video URL
 
