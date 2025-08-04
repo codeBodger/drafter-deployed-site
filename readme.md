@@ -1,6 +1,6 @@
 # Website Name
 
-Replace this text with your website name.
+Replace this line with your website name.
 
 ## Description
 
